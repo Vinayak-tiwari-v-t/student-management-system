@@ -13,6 +13,6 @@ A Java command-line application to manage student records.
    ```bash
    javac Main.java
 4. run the program:
-5. ```bash
+ ```bash
    java Main
    
