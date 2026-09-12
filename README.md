@@ -10,7 +10,8 @@ A Java command-line application to manage student records.
 ## How to Run
 1. Open a terminal/command prompt.
 2. Compile the program:
+   ```bash
    javac Main.java
-3. run the program:
+4. run the program:
    java Main
    
